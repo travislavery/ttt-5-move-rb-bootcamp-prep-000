@@ -14,4 +14,5 @@ def input_to_index(spot)
 end
 
 def move(board, index, player)
+  board[index]
 end
